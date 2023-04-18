@@ -1,0 +1,32 @@
+[
+    {
+     "nombre": "Remera",
+     "precio": 700,
+     "id": "1"
+    },
+    {
+     "nombre": "Short",
+     "precio": 400,
+     "id": "2"
+    },
+    {
+     "nombre": "Gorro",
+     "precio": 300,
+     "id": "3"
+    },
+    {
+     "nombre": "Medias",
+     "precio": 200,
+     "id": "4"
+    },
+    {
+     "nombre": "Equipo",
+     "precio": 1000,
+     "id": "5"
+    },
+    {
+     "nombre": "Equipo deportivo",
+     "precio": 1400,
+     "id": "6"
+    }
+   ]
